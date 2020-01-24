@@ -1,0 +1,3 @@
+file structure lab
+operations on file
+read write reset done
